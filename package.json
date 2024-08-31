@@ -1,0 +1,25 @@
+{
+  "name": "excelconstructor",
+  "version": "1.0.0",
+  "description": "Util to create xlsx documents from custom data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyonazakharova/excel-constructor.git"
+  },
+  "author": "Alyona Zakharova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyonazakharova/excel-constructor/issues"
+  },
+  "homepage": "https://github.com/alyonazakharova/excel-constructor#readme",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
